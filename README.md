@@ -1,4 +1,3 @@
-[![MasterHead](https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif)](https://mevinmanuel.io)
 <h1 align="center">Hi 👋, I'm Abhijith Kumar A K</h1>
 <h3 align="center">A Passionate coder, always learning, and exploring the endless possibilities of technology and life </h3>
 <p>     :)</p>
