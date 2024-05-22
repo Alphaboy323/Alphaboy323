@@ -30,7 +30,7 @@
 
 <p>     -----------------</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhijith&show_icons=true&theme=monokai&locale=en&layout=compact" alt="Abhijith" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijith&show_icons=true&theme=monokai&locale=en" alt="Abhijith" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alphaboy323&show_icons=true&theme=monokai&locale=en&layout=compact" alt="Abhijith" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alphaboy323&show_icons=true&theme=monokai&locale=en" alt="Abhijith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith&theme=monokai" alt="Abhijith" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alphaboy323&theme=monokai" alt="Abhijith" /></p>
