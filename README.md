@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate coder, always learning, and exploring the endless possibilities of technology and life </h3>
 <p>     :)</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhijith&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijith" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alphaboy323&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijith" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://orig00.deviantart.net/fad3/f/2016/098/0/4/flame__gif__by_mastercheesecake-d9y5gdr.png">
 
