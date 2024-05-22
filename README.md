@@ -1,4 +1,3 @@
-[![MasterHead](https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif)](https://mevinmanuel.io)
 <h1 align="center">Hi 👋, I'm Abhijith Kumar A K</h1>
 <h3 align="center">A Passionate coder, always learning, and exploring the endless possibilities of technology and life</h3>
 <p align="center">😊</p>
@@ -77,7 +76,7 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
     <a href="https://procreate.art/" target="_blank" rel="noreferrer">
-        <img src="INSERT_PROCREATE_ICON_URL_HERE" alt="procreate" width="40" height="40"/>
+        <img src="[INSERT_PROCREATE_ICON_URL_HERE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F703054191804737165%2F&psig=AOvVaw12EDJb2_kPPit_JHJUSSGn&ust=1716492376969000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCKjfhsT-oYYDFQAAAAAdAAAAABAE)" alt="procreate" width="40" height="40"/>
     </a>
 </p>
 
